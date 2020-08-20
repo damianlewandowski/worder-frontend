@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/worder-frontend/static/css/main.0986a9ea.chunk.css",
+    "main.js": "/worder-frontend/static/js/main.61f8ecd7.chunk.js",
+    "main.js.map": "/worder-frontend/static/js/main.61f8ecd7.chunk.js.map",
+    "runtime~main.js": "/worder-frontend/static/js/runtime~main.66e6186b.js",
+    "runtime~main.js.map": "/worder-frontend/static/js/runtime~main.66e6186b.js.map",
+    "static/css/2.a5e2c992.chunk.css": "/worder-frontend/static/css/2.a5e2c992.chunk.css",
+    "static/js/2.6e8ae595.chunk.js": "/worder-frontend/static/js/2.6e8ae595.chunk.js",
+    "static/js/2.6e8ae595.chunk.js.map": "/worder-frontend/static/js/2.6e8ae595.chunk.js.map",
+    "index.html": "/worder-frontend/index.html",
+    "precache-manifest.6b416a1af52e27e8becd30c6df5c1501.js": "/worder-frontend/precache-manifest.6b416a1af52e27e8becd30c6df5c1501.js",
+    "service-worker.js": "/worder-frontend/service-worker.js",
+    "static/css/2.a5e2c992.chunk.css.map": "/worder-frontend/static/css/2.a5e2c992.chunk.css.map",
+    "static/css/main.0986a9ea.chunk.css.map": "/worder-frontend/static/css/main.0986a9ea.chunk.css.map",
+    "static/media/logo.svg": "/worder-frontend/static/media/logo.5d5d9eef.svg"
+  }
+}

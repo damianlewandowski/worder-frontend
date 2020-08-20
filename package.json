@@ -1,11 +1,7 @@
 {
-  "name": "react-redux-typescript-realworld-app",
-  "description": "RealWorld App implementation based on \"react-redux-typescript-guide\"",
-  "version": "0.1.0",
   "private": true,
-  "author": "Piotr Witek <piotrek.witek@gmail.com> (http://piotrwitek.github.io/)",
   "repository": "https://github.com/piotrwitek/react-redux-typescript-realworld-app.git",
-  "homepage": "https://react-redux-typescript-realworld-app.netlify.com/",
+  "homepage": "https://damianlewandowski.github.io/worder-frontend",
   "license": "MIT",
   "main": "src/index.tsx",
   "scripts": {
@@ -18,7 +14,9 @@
     "prettier": "prettier --list-different 'src/**/*.ts' || (echo '\nPlease run the following command to fix:\nnpm run prettier:fix\n'; exit 1)",
     "prettier:fix": "prettier --write 'src/**/*.ts'",
     "tsc": "tsc -p ./ --noEmit",
-    "tsc:watch": "tsc -p ./ --noEmit -w"
+    "tsc:watch": "tsc -p ./ --noEmit -w",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.0",

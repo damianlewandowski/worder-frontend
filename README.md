@@ -1,3 +1,5 @@
+https://github.com/damianlewandowski/worder-frontend/workflows/CI/CD/badge.svg
+
 ## Available Scripts
 
 ### `npm start`

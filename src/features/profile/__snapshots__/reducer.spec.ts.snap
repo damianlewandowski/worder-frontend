@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Auth Stories initial state should match a snapshot 1`] = `
+Object {
+  "isLoadingProfile": false,
+  "profile": Object {
+    "error": "",
+    "profile": Object {
+      "email": "",
+    },
+  },
+}
+`;
+
+exports[`Profile stories initial state should match a snapshot 1`] = `
+Object {
+  "isLoadingProfile": false,
+  "profile": Object {
+    "error": "",
+    "profile": Object {
+      "email": "",
+    },
+  },
+}
+`;

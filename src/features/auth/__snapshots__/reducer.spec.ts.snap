@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Auth Stories initial state should match a snapshot 1`] = `
+Object {
+  "isLoadingAuth": false,
+  "tokens": Object {
+    "jwt_token": "",
+    "refresh_token": "",
+  },
+}
+`;

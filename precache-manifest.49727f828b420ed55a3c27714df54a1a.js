@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91880ad317c430126d59d4b65d3b3a79",
+    "revision": "364c7bc7ce04c0e693c55fcd3945fc6f",
     "url": "/worder-frontend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/worder-frontend/static/css/2.a5e2c992.chunk.css"
   },
   {
-    "revision": "9daa816275bcc4b38b06",
+    "revision": "7465386b2e3bbeed3cce",
     "url": "/worder-frontend/static/css/main.0986a9ea.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/worder-frontend/static/js/2.d1cb1d91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9daa816275bcc4b38b06",
-    "url": "/worder-frontend/static/js/main.c0a2f86b.chunk.js"
+    "revision": "7465386b2e3bbeed3cce",
+    "url": "/worder-frontend/static/js/main.79bebf2d.chunk.js"
   },
   {
     "revision": "35f2cbfe9b79e6f02136",

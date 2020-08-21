@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/worder-frontend/precache-manifest.9b3990eb26707570f16dc98f659fa5d9.js"
+  "/worder-frontend/precache-manifest.49727f828b420ed55a3c27714df54a1a.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -58,7 +58,7 @@ const LoginForm = React.memo<Props>(({ login, redirectToHome, isLogged }) => {
     if (isLogged) {
       redirectToHome()
     }
-  }, [isLogged]);
+  }, [isLogged, redirectToHome]);
 
 
   const classes = useStyles();

@@ -8,7 +8,6 @@ import { getProfileAsync } from '../actions';
 
 
 const mapStateToProps = (state: RootState) => {
-  console.log(state);
   return {
     profile: state.profile.profile,
     token: state.auth.tokens.jwt_token,
@@ -30,7 +29,7 @@ const Profile: React.FC<Props> = ({ profile, getProfile, isLogged, redirectToLog
     } else {
       redirectToLogin()
     }
-  }, [isLogged])
+  }, [isLogged, getProfile, redirectToLogin])
 
   return (
     <div>

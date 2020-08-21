@@ -20,7 +20,9 @@ export const epicMiddleware = createEpicMiddleware<
 });
 
 // configure middlewares
-export const history = createBrowserHistory();
+export const history = createBrowserHistory({
+  basename: process.env.PUBLIC_URL
+});
 const middlewares = [routerMiddleware(history), epicMiddleware];
 // compose enhancers
 const enhancer = composeEnhancers(applyMiddleware(...middlewares));
